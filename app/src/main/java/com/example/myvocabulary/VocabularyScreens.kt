@@ -2233,11 +2233,11 @@ private data class SemanticMapNodePosition(
 
 private val semanticMapAccentPalette = listOf(
     AccentDark,
-    androidx.compose.ui.graphics.Color(0xFFD97706),
-    androidx.compose.ui.graphics.Color(0xFF7C3AED),
-    androidx.compose.ui.graphics.Color(0xFF0EA5E9),
-    androidx.compose.ui.graphics.Color(0xFFDB2777),
-    androidx.compose.ui.graphics.Color(0xFF2563EB)
+    androidx.compose.ui.graphics.Color(0xFF353535),
+    androidx.compose.ui.graphics.Color(0xFF4B4B4B),
+    androidx.compose.ui.graphics.Color(0xFF626262),
+    androidx.compose.ui.graphics.Color(0xFF7B7B7B),
+    androidx.compose.ui.graphics.Color(0xFF949494)
 )
 
 private fun semanticMapAccent(index: Int): androidx.compose.ui.graphics.Color {
